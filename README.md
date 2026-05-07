@@ -31,7 +31,7 @@ Multi-class image classifier detecting **7 plant diseases** from 2,500 leaf imag
 - ResNet50 achieved **96% validation accuracy**
 - Addressed class imbalance with class-weighted loss + strong augmentation
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/sayalidudhane22/Strawberry_Disease_Detection-CNNTransferLearning)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/sayalidudhane22/Strawberry_Disease_Detection-CNN-TransferLearning)
 
 ---
 
