@@ -69,5 +69,5 @@ B.E. Computer Engineering — Dr. Babasaheb Ambedkar Technological University (C
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayali%20Dudhane-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sayali-dudhane876a7a1aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayali%20Dudhane-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sayali-dudhane-876a7a1aa/)
 [![Email](https://img.shields.io/badge/Email-sayalidudhane2001%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:sayalidudhane2001@gmail.com)
