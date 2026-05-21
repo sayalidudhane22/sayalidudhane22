@@ -1,14 +1,14 @@
 # Hi, I'm Sayali Dudhane 👋
 
-Software engineer transitioning into **AI/ML engineering**. I build and ship real things — not just notebooks.
+**AI/ML engineer**. I build and ship real things — not just notebooks.
 
 📍 Navi Mumbai |🔍 Open to AI/ML roles
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 CBSE Science Tutor — RAG AI App
+### CBSE Science Tutor — RAG AI App
 > *LangChain · FAISS · Sarvam AI · HuggingFace Embeddings · Streamlit*
 
 A fully deployed AI tutor for Class 10 Science students. Supports **English, Hindi, and Marathi**.
@@ -22,7 +22,7 @@ A fully deployed AI tutor for Class 10 Science students. Supports **English, Hin
 
 ---
 
-### 🍓 Strawberry Disease Detection — CNN + Transfer Learning
+### Strawberry Disease Detection — CNN + Transfer Learning
 > *TensorFlow · Keras · VGG16 · MobileNetV2 · ResNet50 · NumPy*
 
 Multi-class image classifier detecting **7 plant diseases** from 2,500 leaf images.
@@ -48,18 +48,18 @@ Multi-class image classifier detecting **7 plant diseases** from 2,500 leaf imag
 
 ---
 
-## 📚 Learning & Certifications
+## Learning & Certifications
 
-- 🎓 Microsoft Applied AI Program (6 months)
-- 📘 ML Specialization — Andrew Ng (Coursera)
-- 📘 Deep Learning Specialization — Andrew Ng
-- 🤗 Agentic AI Course — HuggingFace (2026)
-- 📊 Machine Learning Intermediate — Kaggle (2026)
+-  Microsoft Applied AI Program (6 months)
+-  ML Specialization — Andrew Ng (Coursera)
+-  Deep Learning Specialization — Andrew Ng
+-  Agentic AI Course — HuggingFace (2026)
+-  Machine Learning Intermediate — Kaggle (2026)
 - 🏆 Zensar Certificate of Appreciation — Mar 2024
 
 ---
 
-## 💼 Background
+## Background
 
 1.6 years as a Software Engineer at **Zensar Technologies** on production systems (Versace SFCC platform, Oracle EBS/Fusion). Recognized with a Certificate of Appreciation for outstanding contribution on live systems.
 
