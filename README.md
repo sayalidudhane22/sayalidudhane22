@@ -1,8 +1,8 @@
-# Hi, I'm Sayali Dudhane 👋
+# Hi, I'm Sayali Dudhane 
 
 **AI/ML engineer**. I build and ship real things — not just notebooks.
 
-📍 Navi Mumbai |🔍 Open to AI/ML roles
+ Navi Mumbai |  Open to AI/ML roles
 
 ---
 
